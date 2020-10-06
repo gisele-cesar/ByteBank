@@ -4,3 +4,4 @@ C:\Users\Avanade\source\repos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
 C:\Users\Avanade\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\Avanade\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
 C:\Users\Avanade\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
+C:\Users\Avanade\Source\Repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csprojAssemblyReference.cache
